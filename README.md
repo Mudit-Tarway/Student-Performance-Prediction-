@@ -114,7 +114,7 @@ Predicted Grade: C
 
 * **Model Used:** Random Forest Classifier
 * **Accuracy:** ~85–90% (depending on dataset)
-* **Grades Predicted:** A, B, C, D, E, F
+* **Grades Predicted:** A, B, C, D, E
 
 ---
 
